@@ -1,5 +1,12 @@
-### Hi there 👋
+###webエンジニアとなるために２０２３年1月より勉強を開始しました
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satoshi170&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Satoshi170&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Satoshi170&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Satoshi170/Satoshi170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
