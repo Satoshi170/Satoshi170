@@ -1,4 +1,4 @@
-###webエンジニアとなるために２０２３年1月より勉強を開始しました
+webエンジニアとなるために２０２３年1月より勉強を開始しました
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satoshi170&layout=compact&show_icons=true&theme=onedark" />
